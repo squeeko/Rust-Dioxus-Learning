@@ -1,0 +1,11 @@
+/Users/squeeko/Rust-Dioxus-Learning/hackernews/target/debug/deps/socket2-ce6220a61c165ba6.rmeta: /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/lib.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockaddr.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/socket.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockref.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sys/unix.rs
+
+/Users/squeeko/Rust-Dioxus-Learning/hackernews/target/debug/deps/libsocket2-ce6220a61c165ba6.rlib: /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/lib.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockaddr.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/socket.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockref.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sys/unix.rs
+
+/Users/squeeko/Rust-Dioxus-Learning/hackernews/target/debug/deps/socket2-ce6220a61c165ba6.d: /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/lib.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockaddr.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/socket.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockref.rs /Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sys/unix.rs
+
+/Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/lib.rs:
+/Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockaddr.rs:
+/Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/socket.rs:
+/Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sockref.rs:
+/Users/squeeko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.3/src/sys/unix.rs:
